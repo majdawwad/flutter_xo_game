@@ -1,0 +1,4 @@
+#Sat Apr 23 14:31:01 EEST 2022
+base.0=/home/majdawwad/My_Jods/flutter_projects/x_o_game/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

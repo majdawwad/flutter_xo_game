@@ -1,0 +1,12 @@
+/home/majdawwad/My_Jods/flutter_projects/x_o_game/build/linux/x64/debug/bundle/x_o_game
+/home/majdawwad/My_Jods/flutter_projects/x_o_game/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/majdawwad/My_Jods/flutter_projects/x_o_game/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/majdawwad/My_Jods/flutter_projects/x_o_game/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/majdawwad/My_Jods/flutter_projects/x_o_game/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/majdawwad/My_Jods/flutter_projects/x_o_game/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/majdawwad/My_Jods/flutter_projects/x_o_game/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/majdawwad/My_Jods/flutter_projects/x_o_game/build/linux/x64/debug/bundle/data/flutter_assets/version.json
+/home/majdawwad/My_Jods/flutter_projects/x_o_game/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/majdawwad/My_Jods/flutter_projects/x_o_game/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/home/majdawwad/My_Jods/flutter_projects/x_o_game/build/linux/x64/debug/bundle/data/flutter_assets/packages/fluttertoast/assets/toastify.js
+/home/majdawwad/My_Jods/flutter_projects/x_o_game/build/linux/x64/debug/bundle/data/flutter_assets/packages/fluttertoast/assets/toastify.css
